@@ -31,7 +31,7 @@ userProp = K.constant User name: 'nl0', email: 'nl0@example.com'
 nameProp = select uProp, ({name}) -> name
 ```
 
-## Api
+## API
 
 The following types
 

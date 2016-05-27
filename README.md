@@ -7,7 +7,7 @@
 ## Installation
 
 ```shell
-npm install nl0/tcomb-redux
+npm install nl0/tcomb-kefir
 ```
 
 ## Usage

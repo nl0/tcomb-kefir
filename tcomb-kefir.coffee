@@ -9,6 +9,7 @@ mkComb = (name) ->
 
   comb = T.func([T.Type], T.Type, kind).of (type) ->
     class WrappedType
+      @displayName: "#{kind}(#{T.getTypeName type})"
       @meta: {kind, type}
       @is: (x) -> Type.is(x) and x.type == type
       constructor: (x) -> return Type(x).map type

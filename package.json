@@ -20,7 +20,7 @@
     "url": "https://github.com/nl0/tcomb-kefir/issues"
   },
   "homepage": "https://github.com/nl0/tcomb-kefir#readme",
-  "dependencies": {
+  "peerDependencies": {
     "kefir": "^3",
     "tcomb": "^3"
   }

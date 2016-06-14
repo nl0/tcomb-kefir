@@ -1,12 +1,12 @@
 {
-  "name": "tcomb-kefir",
+  "name": "tcomb-kfr",
   "version": "0.0.0",
-  "description": "tcomb type definitions / combinators for kefir",
-  "main": "tcomb-kefir.coffee",
+  "description": "tcomb type definitions / combinators for kefir frp library",
+  "main": "tcomb-kfr.coffee",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nl0/tcomb-kefir.git"
+    "url": "git+https://github.com/nl0/tcomb-kfr.git"
   },
   "keywords": [
     "tcomb",
@@ -17,9 +17,9 @@
   "author": "nl_0 <nl.imbecile@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nl0/tcomb-kefir/issues"
+    "url": "https://github.com/nl0/tcomb-kfr/issues"
   },
-  "homepage": "https://github.com/nl0/tcomb-kefir#readme",
+  "homepage": "https://github.com/nl0/tcomb-kfr#readme",
   "peerDependencies": {
     "kefir": "^3",
     "tcomb": "^3"

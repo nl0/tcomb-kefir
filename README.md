@@ -1,4 +1,4 @@
-# tcomb-kefir
+# tcomb-kfr
 
 [tcomb](https://github.com/gcanti/tcomb) type definitions and combinators for
 [kefir](https://github.com/rpominov/kefir) frp library.
@@ -7,13 +7,13 @@
 ## Installation
 
 ```shell
-npm install tcomb-kefir
+npm install tcomb-kfr
 ```
 
 ## Usage
 
 ```coffeescript
-T = require 'tcomb-kefir'
+T = require 'tcomb-kfr'
 K = require 'kefir'
 
 User = T.struct

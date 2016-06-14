@@ -7,7 +7,7 @@
 ## Installation
 
 ```shell
-npm install nl0/tcomb-kefir
+npm install tcomb-kefir
 ```
 
 ## Usage

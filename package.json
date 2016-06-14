@@ -2,7 +2,7 @@
   "name": "tcomb-kefir",
   "version": "0.0.0",
   "description": "tcomb type definitions / combinators for kefir",
-  "main": "tcomb-kefir",
+  "main": "tcomb-kefir.coffee",
   "scripts": {},
   "repository": {
     "type": "git",
